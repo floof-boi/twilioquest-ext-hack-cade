@@ -1,0 +1,15 @@
+{
+  "title": "Come On In, the Water's Fine (Hello World!)",
+  "description": "To complete this objective, operators will be guided to write <strong>Hello World!</strong> in C.",
+  "validation_fields": [
+    {
+      "name": "answer1hello",
+      "type": "text",
+      "placeholder": "type your answer here",
+      "label": "What code statement should replace <strong>???</strong> in the given C program?"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}
